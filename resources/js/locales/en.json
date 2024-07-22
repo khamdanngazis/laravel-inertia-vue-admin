@@ -1,0 +1,104 @@
+{
+  "welcome_page": {
+    "home": "Home",
+    "features": "Features",
+    "highlights": "Highlights",
+    "pricing": "Pricing",
+    "login": "Login",
+    "register": "Register",
+    "saas_platform": "Saas AI Platform",
+    "welcome_message": "Welcome to Gazza Destek AI Platform",
+    "get_started": "Get Started",
+    "marvelous_features": "Marvelous Features",
+    "easy_to_use": "Easy to Use",
+    "fresh_design": "Fresh Design",
+    "well_documented": "Well Documented",
+    "responsive_layout": "Responsive Layout",
+    "clean_code": "Clean Code",
+    "dark_mode": "Dark Mode",
+    "ready_to_use": "Ready to Use",
+    "modern_practices": "Modern Practices",
+    "privacy": "Privacy",
+    "testimonial": "“Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.”",
+    "testimonial_author": "Joséphine Miller",
+    "testimonial_company": "Peak Interactive",
+    "highlights_details": {
+      "title": "Powerful Everywhere",
+      "subtitle": "Amet consectetur adipiscing elit...",
+      "section1": {
+          "title": "Congue Quisque Egestas",
+          "description": "Lectus arcu bibendum at varius vel pharetra vel turpis nunc. Eget aliquet nibh praesent tristique magna sit amet purus gravida. Sit amet mattis vulputate enim nulla aliquet."
+      },
+      "section2": {
+          "title": "Celerisque Eu Ultrices",
+          "description": "Adipiscing commodo elit at imperdiet dui. Viverra nibh cras pulvinar mattis nunc sed blandit libero. Suspendisse in est ante in. Mauris pharetra et ultrices neque ornare aenean euismod elementum nisi."
+      }
+    },
+    "pricing_detail": {
+        "title": "Matchless Pricing",
+        "subtitle": "Amet consectetur adipiscing elit...",
+        "perMonth": "per month",
+        "plans": {
+            "free": {
+                "title": "Free",
+                "price": "$0",
+                "button": "Get Started",
+                "feature1": "Responsive Layout",
+                "feature2": "Unlimited Push Messages",
+                "feature3" : "50 Support Ticket",
+                "feature4": "Free Shipping"
+            },
+            "startup": {
+                "title": "Startup",
+                "price": "$1",
+                "button": "Try Free",
+                "feature1": "Responsive Layout",
+                "feature2": "Unlimited Push Messages",
+                "feature3" : "50 Support Ticket",
+                "feature4": "Free Shipping"
+            },
+            "enterprise": {
+                "title": "Enterprise",
+                "price": "$999",
+                "button": "Get a Quote",
+                "feature1": "Responsive Layout",
+                "feature2": "Unlimited Push Messages",
+                "feature3" : "50 Support Ticket",
+                "feature4": "Free Shipping"
+            }
+        }
+    },
+    "footer": {
+        "company": {
+            "title": "Company",
+            "item1":  "About Us",
+            "item2":   "News",
+            "item3":    "Investor Relations",
+            "item4":   "Careers",
+            "item5":   "Media Kit"
+        },
+        "resources": {
+            "title": "Resources",
+            "item1":   "Get Started",
+            "item2":   "Learn",
+            "item3":     "Case Studies"
+        },
+        "community": {
+            "title": "Community",
+            "item1":   "Discord",
+            "item2":  "Events",
+            "item3":      "FAQ",
+            "item4":    "Blog"
+        },
+        "legal": {
+            "title": "Legal",
+            "item1":   "Brand Policy",
+            "item2":  "Privacy Policy",
+            "item3":      "Terms of Service"
+        },
+        "logoAlt": "footer sections",
+        "logoText": "SAKAI"
+    }
+  }
+}
+  
